@@ -2,7 +2,7 @@
 
 👩🏿‍💻 I am a Lead Technologist at [UNICEF Oky](https://www.okyapp.info/)</br>
 🫱🏿‍🫲🏾 Manage the Incredible Community at [Masakhane](https://www.masakhane.io/)</br>
-☄️ Build impactful projects with GIG</br>
+☄️ Build impactful projects with [GIG](https://globalinnovationgathering.org/)</br>
 📝 I ocassionally write about my learnings and the things I code on [Medium](https://tabanlydia.medium.com/)
 
 
